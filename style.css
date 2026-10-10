@@ -1,0 +1,39 @@
+
+body {
+    background: linear-gradient(135deg, #141e30, #243b55);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.player {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 300px;
+}
+
+.cover {
+    background: #d8b4fe;
+    border-radius: 15px;
+    font-size: 80px;
+    padding: 30px;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+p {
+    color: gray;
+}
+
+audio {
+    width: 100%;
+    margin-top: 15px;
+}
+```
